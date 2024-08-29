@@ -1,2 +1,2 @@
 # java-study
-Practice makes perfect
+내손을JAVA
