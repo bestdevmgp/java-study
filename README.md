@@ -1,2 +1,2 @@
 # java-study
-내손을JAVA
+2학년 1학기 자바 수업
