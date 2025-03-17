@@ -1,11 +1,9 @@
 package condition;
 
-import java.util.Scanner;
-
 public class ConditionEx7 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int x = sc.nextInt();
-        System.out.println(x % 2 == 0 ? "짝수" : "홀수");
+        int a = 10;
+        int b = 20;
+        System.out.println(a < b ? "더 큰 숫자는 " + b + "입니다." : "더 큰 숫자는 " + a + "입니다.");
     }
 }
