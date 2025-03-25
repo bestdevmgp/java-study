@@ -13,6 +13,7 @@ public class ArrayEx4 {
             arr[i] = sc.nextInt();
             sum += arr[i];
         }
+
         avg = sum / arr.length;
         System.out.println("합: " + sum);
         System.out.println("평균: " + avg);

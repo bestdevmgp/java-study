@@ -12,6 +12,7 @@ public class ArrayEx6 {
         for (int i = 0; i < length; i++) {
             arr[i] = sc.nextInt();
         }
+
         for (int i = 0; i < length; i++) {
             if (i != length - 1 && arr[i] > arr[i + 1]) {
                 int temp = arr[i];
@@ -19,6 +20,7 @@ public class ArrayEx6 {
                 arr[i + 1] = temp;
             }
         }
+
         System.out.println("최소: " + arr[0]);
         System.out.println("최대: " + arr[length - 1]);
     }
