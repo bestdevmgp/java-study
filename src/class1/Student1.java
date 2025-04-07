@@ -1,4 +1,4 @@
-package classes;
+package class1;
 
 public class Student1 {
     private String name;

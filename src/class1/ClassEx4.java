@@ -1,4 +1,4 @@
-package classes;
+package class1;
 
 public class ClassEx4 {
 
